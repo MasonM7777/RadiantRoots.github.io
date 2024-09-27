@@ -1,0 +1,70 @@
+body
+{
+    color: blue;
+    background-color: bisque;
+}
+
+header
+{
+
+  float:left;
+  width: 90%;
+   
+}
+
+nav 
+{ 
+    float: Right;
+    margin:  -11em 3em 0 0;
+    width: 10%;
+}
+
+nav ul 
+{
+
+    list-style-type: none;
+    margin: 0;
+    text-align: right;
+}
+    
+main 
+{
+    float: right;
+    margin: 3em 8em 0 0;
+    width: 91%;
+    font-size: 1.2em;
+}
+
+flowers 
+{
+    float: left;
+    width: 80%
+}
+
+
+Edelweiss
+{
+    float: left; 
+    width: 45%;
+    font-size: 5em;
+    margin: 10em 4em 0 0;
+}
+
+Prat orchid
+{
+    float: right;
+    width: 45%;
+    font-size: 5em;
+}
+
+contact
+{
+    float: left;
+
+}
+ 
+footer 
+{
+    float: left;
+    margin: 20em -20em 0 0;
+}
